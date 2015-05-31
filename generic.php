@@ -11,10 +11,10 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
-		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
-		<link rel="stylesheet" href="css/style.css" />
-		<!--[if lte IE 9]><link rel="stylesheet" href="css/ie/v9.css" /><![endif]-->
-		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
+		<!--[if lte IE 8]><script src="assets/style/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/style/style.css" />
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/style/ie/v9.css" /><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/style/ie/v8.css" /><![endif]-->
 	</head>
 	<body>
 
@@ -23,16 +23,16 @@
 
 				<!-- Header -->
 					<header id="header">
-						<h1><a href="index.html">Spectral</a></h1>
+						<h1><a href="index.php">Spectral</a></h1>
 						<nav id="nav">
 							<ul>
 								<li class="special">
 									<a href="#" class="menuToggle"><span>Menu</span></a>
 									<div id="menu">
 										<ul>
-											<li><a href="index.html">Home</a></li>
-											<li><a href="generic.html">Generic</a></li>
-											<li><a href="elements.html">Elements</a></li>
+											<li><a href="index.php">Home</a></li>
+											<li><a href="generic.php">Generic</a></li>
+											<li><a href="elements.php">Elements</a></li>
 											<li><a href="#">Sign Up</a></li>
 											<li><a href="#">Log In</a></li>
 										</ul>
@@ -84,11 +84,11 @@
 			</div>
 
 		<!-- Scripts -->
-			<script src="js/jquery.min.js"></script>
-			<script src="js/jquery.scrollex.min.js"></script>
-			<script src="js/jquery.scrolly.min.js"></script>
-			<script src="js/skel.min.js"></script>
-			<script src="js/init.js"></script>
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/init.js"></script>
 
 	</body>
 </html>

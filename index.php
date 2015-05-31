@@ -11,10 +11,10 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
-		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
-		<link rel="stylesheet" href="css/style.css" />
-		<!--[if lte IE 9]><link rel="stylesheet" href="css/ie/v9.css" /><![endif]-->
-		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
+		<!--[if lte IE 8]><script src="assets/style/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/style/style.css" />
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/style/ie/v9.css" /><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/style/ie/v8.css" /><![endif]-->
 	</head>
 	<body class="landing">
 
@@ -31,7 +31,7 @@
 									<div id="menu">
 										<ul>
 											<li><a href="index.php">Home</a></li>
-											<li><a href="generic.html">Generic</a></li>
+											<li><a href="generic.php">Generic</a></li>
 											<li><a href="elements.php">Elements</a></li>
 											<li><a href="#">Sign Up</a></li>
 											<li><a href="#">Log In</a></li>
@@ -76,21 +76,21 @@
 				<!-- Two -->
 					<section id="two" class="wrapper alt style2">
 						<section class="spotlight">
-							<div class="image"><img src="images/pic01.jpg" alt="" /></div><div class="content">
+							<div class="image"><img src="assets/images/6heartchair.jpg" alt="" /></div><div class="content">
 								<h2>Magna primis lobortis<br />
 								sed ullamcorper</h2>
 								<p>Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.</p>
 							</div>
 						</section>
 						<section class="spotlight">
-							<div class="image"><img src="images/pic02.jpg" alt="" /></div><div class="content">
+							<div class="image"><img src="assets/images/11dreamtree2.jpg" alt="" /></div><div class="content">
 								<h2>Tortor dolore feugiat<br />
 								elementum magna</h2>
 								<p>Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.</p>
 							</div>
 						</section>
 						<section class="spotlight">
-							<div class="image"><img src="images/pic03.jpg" alt="" /></div><div class="content">
+							<div class="image"><img src="assets/images/3eightdimensions.jpg" alt="" /></div><div class="content">
 								<h2>Augue eleifend aliquet<br />
 								sed condimentum</h2>
 								<p>Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.</p>
@@ -191,11 +191,11 @@
 			</div>
 
 		<!-- Scripts -->
-			<script src="js/jquery.min.js"></script>
-			<script src="js/jquery.scrollex.min.js"></script>
-			<script src="js/jquery.scrolly.min.js"></script>
-			<script src="js/skel.min.js"></script>
-			<script src="js/init.js"></script>
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/init.js"></script>
 
 	</body>
 </html>
