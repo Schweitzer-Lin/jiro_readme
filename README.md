@@ -6,9 +6,13 @@ Jiro Studio Official Website
 ### Require:
 
 npm
+
 gulp
+
 bower
+
 npm install
+
 gulp build
 
 
