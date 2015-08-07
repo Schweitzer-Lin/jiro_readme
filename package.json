@@ -1,7 +1,7 @@
 {
   "name": "jiro_studio",
   "version": "1.0.0",
-  "description": "BatonHunter web based game",
+  "description": "Jiro Studio Web",
   "repository": {
     "type": "git",
     "url": "https://github.com/Schweitzer-Lin/jiro_studio.git"
