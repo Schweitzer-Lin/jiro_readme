@@ -1,15 +1,15 @@
 # jiro_studio
 Jiro Studio Official Website
 
-## Setup
-
-### Require:
+## Require
 
 npm
 
 gulp
 
 bower
+
+### Steps:
 
 npm install
 
